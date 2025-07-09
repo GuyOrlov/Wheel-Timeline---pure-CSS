@@ -41,12 +41,6 @@ I adapted the concept for Power BI to:
 
 ---
 
-## 🎥 Demo Video
-
-Watch how the wheel spins and the content updates dynamically — [link to your demo video here].
-
----
-
 ## 📂 How to use
 
 1. Copy the **DAX Year Table**:
